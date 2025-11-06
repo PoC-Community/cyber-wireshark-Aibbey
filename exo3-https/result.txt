@@ -1,1 +1,1 @@
-HTTPS encrypts the HTTP request body using TLS.
+HTTPS encrypts the HTTP request body using TLS
