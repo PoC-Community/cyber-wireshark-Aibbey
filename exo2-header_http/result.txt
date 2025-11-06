@@ -1,0 +1,4 @@
+Hypertext Transfer Protocol
+    Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=\r\n
+        Credentials: username:password
+ 
